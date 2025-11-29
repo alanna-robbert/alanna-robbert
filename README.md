@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello there, my name is Alanna! 👋
 
+I'm a journalism student at the University of Florida with concentrations in data and statstics.
 <!--
 **alanna-robbert/alanna-robbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
