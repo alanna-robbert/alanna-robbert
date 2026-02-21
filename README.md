@@ -1,6 +1,6 @@
 ## Hello there, my name is Alanna! 👋
 
-I'm a journalism senior at the University of Florida with concentrations in data and statistics.
+I'm a journalism senior at the University of Florida with concentrations in data, statistics and mapping.
 <!--
 **alanna-robbert/alanna-robbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
