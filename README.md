@@ -1,4 +1,4 @@
-## Hello there, my name is Alanna! 👋
+## Hello, my name is Alanna!
 
 I'm a journalism graduate from the University of Florida where I specialized in data, statistics and mapping.
 <!--
