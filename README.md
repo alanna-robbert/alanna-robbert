@@ -1,6 +1,6 @@
 ## My name is Alanna.
 
-I'm a journalism graduate from the University of Florida where I specialized in data, statistics and mapping.
+I'm a journalism graduate from the University of Florida where I specialized in data, statistics and mapping. Previously at the Independent Florida Alligator and WUFT News.
 <!--
 **alanna-robbert/alanna-robbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
